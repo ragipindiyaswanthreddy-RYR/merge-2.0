@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 im living in banglore
-=======
+
 my name is R.Yaswanth Reddy
->>>>>>> release
+
